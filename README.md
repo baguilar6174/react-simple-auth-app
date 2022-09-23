@@ -72,11 +72,11 @@ En mis proyectos suelo utilizar la siguiente estructura de directorios:
 10. El directorio `services` contiene la definición de axios para las peticiones HTTP, aquí puedes crear interceptores que te ayuden a agregar cabeceras o manejar los errores de mejor manera.
 11. Finalmente, el directorio `utilities` lo puedes usar para alamcenar funciones globales en tu aplicación por ejemplo: una función de conversión de divisas, un formateador de fechas, etc.
 
-## Autor
+## Author
 
-- Sitio web - [bryanaguilar](https://bryanaguilar.gatsbyjs.io/)
-- GitHub - [bryanAguilar001](https://github.com/bryanAguilar001)
-- LinkeIn - [bryanaguilar6174](https://www.linkedin.com/in/bryanaguilar6174)
+- Website - [www.bryan-aguilar.com](https://www.bryan-aguilar.com/)
+- Medium - [baguilar6174](https://baguilar6174.medium.com/)
+- LinkeIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
 - Email - [bryan.aguilar6174@gmail.com](mailto:bryan.aguilar6174@gmail.com)
 
 ## Estado del proyecto
